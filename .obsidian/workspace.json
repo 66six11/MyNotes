@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53659613424d3c81",
+        "id": "72ae4a32c2e84922",
         "type": "tabs",
         "children": [
           {
-            "id": "183fd44ff9562046",
+            "id": "a458acd028629ad7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,33 @@
       "i18n:I18N": false
     }
   },
-  "active": "5ae945ac14262112",
+  "active": "a458acd028629ad7",
   "lastOpenFiles": [
-    "欢迎.md"
+    "物理模拟.md",
+    "unity引擎/特效",
+    "unity引擎/物理模拟",
+    "unity引擎",
+    "计算机图形学学习",
+    "unity引擎/ShaderLibrary",
+    "unity引擎/urp渲染/体积雾（TODO）.md",
+    "优化相关.md",
+    "unity引擎/优化相关/GPU实例",
+    "unity引擎/优化相关/Job多线程",
+    "unity引擎/优化相关/计算着色器",
+    "unity引擎/优化相关",
+    "unity引擎/urp渲染/贴花（TODO）.md",
+    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
+    "unity引擎/urp渲染/水面渲染（ING）.md",
+    "unity引擎/urp渲染/水下后处理（TODO）.md",
+    "unity引擎/urp渲染/自定义渲染管线（TODO）.md",
+    "unity引擎/urp渲染/自定义后处理（TODO）.md",
+    "unity引擎/urp渲染/体渲染（TODO）.md",
+    "unity引擎/urp渲染/PBR流程（TODO）.md",
+    "欢迎.md",
+    "unity引擎/urp渲染/头发渲染（TODO）.md",
+    "unity引擎/urp渲染/草地渲染（TODO）.md",
+    "unity引擎/urp渲染/体积光（TODO）.md",
+    "unity引擎/urp渲染/大气散射（TODO）.md",
+    "unity引擎/urp渲染"
   ]
 }
