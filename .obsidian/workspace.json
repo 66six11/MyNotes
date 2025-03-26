@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff2ba2509623a85f",
+        "id": "53659613424d3c81",
         "type": "tabs",
         "children": [
           {
-            "id": "f7a23e610542a3ea",
+            "id": "183fd44ff9562046",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -151,7 +151,7 @@
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "源代码管理"
             }
           }
         ],
@@ -168,8 +168,10 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "obsidian-git:Open Git source control": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:打开Git源代码管理": false,
+      "obsidian42-brat:BRAT": false,
+      "i18n:I18N": false
     }
   },
   "active": "5ae945ac14262112",
