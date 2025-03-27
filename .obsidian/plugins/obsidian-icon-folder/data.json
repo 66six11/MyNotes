@@ -20,11 +20,10 @@
         "order": 1
       },
       {
-        "rule": "Shader",
-        "icon": "UnShader",
+        "rule": "\\.(shader)$",
+        "icon": "SiShadow",
         "for": "everything",
-        "order": 1,
-        "color": "#ff0000"
+        "order": 1
       }
     ],
     "extraMargin": {

@@ -4,5 +4,6 @@
   "strictLineBreaks": false,
   "rightToLeft": false,
   "readableLineLength": false,
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "showUnsupportedFiles": true
 }

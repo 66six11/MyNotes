@@ -4,42 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "59f09ddf994440a0",
+        "id": "b2181bdf58ae142f",
         "type": "tabs",
-        "dimension": 18.03426510369702,
         "children": [
           {
-            "id": "5216d6e87cf81822",
+            "id": "f81e5982f84bdfaa",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Pasted image 20250328000115.png",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "unity引擎/urp渲染/草地渲染（TODO）.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-list",
-              "title": "Pasted image 20250328000115 的大纲"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2d240653809bb923",
-        "type": "tabs",
-        "dimension": 81.96573489630298,
-        "children": [
-          {
-            "id": "c5a7940d8ee699aa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Pasted image 20250328000115.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250328000115"
+              "icon": "lucide-file",
+              "title": "草地渲染（TODO）"
             }
           }
         ]
@@ -187,13 +166,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c5a7940d8ee699aa",
+  "active": "f81e5982f84bdfaa",
   "lastOpenFiles": [
+    "attachments/Outline.shader",
+    "attachments/Pasted image 20250328000115.png",
+    "unity引擎/ShaderLibrary/未命名.md",
+    "unity引擎/ShaderLibrary/Outline.shader",
     "attachments/Pasted image 20250328000125.png",
     "attachments/Pasted image 20250328000136.png",
     "unity引擎/urp渲染/各向异性基础渲染.md",
     "attachments/Pasted image 20250328010322.png",
-    "attachments/Pasted image 20250328000115.png",
     "unity引擎/urp渲染/水面渲染（ING）.md",
     "unity引擎/urp渲染/程序化天空盒（TODO）.md",
     "attachments/Pasted image 20250328005531.png",
@@ -228,7 +210,6 @@
     "unity引擎/ShaderLibrary",
     "优化相关.md",
     "unity引擎/优化相关/GPU实例",
-    "unity引擎/优化相关/Job多线程",
     "欢迎.md"
   ]
 }
