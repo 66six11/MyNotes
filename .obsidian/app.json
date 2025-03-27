@@ -1,4 +1,6 @@
 {
   "newFileLocation": "root",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "strictLineBreaks": false,
+  "rightToLeft": false
 }
