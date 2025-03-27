@@ -25,3 +25,7 @@
     width: var(--size-full);
     height: var(--size-full);
 }
+.markdown-preview-view img {
+    display: block;
+    margin: 0 auto;
+}

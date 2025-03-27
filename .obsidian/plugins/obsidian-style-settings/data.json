@@ -1,3 +1,6 @@
 {
-  "minimal-style@@zoom-off": true
+  "minimal-style@@zoom-off": true,
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-material-palenight",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default"
 }

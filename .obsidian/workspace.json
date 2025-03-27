@@ -6,6 +6,29 @@
       {
         "id": "59f09ddf994440a0",
         "type": "tabs",
+        "dimension": 18.034265103697024,
+        "children": [
+          {
+            "id": "5216d6e87cf81822",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "unity引擎/urp渲染/各向异性基础渲染.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "各向异性基础渲染 的大纲"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d240653809bb923",
+        "type": "tabs",
+        "dimension": 81.96573489630298,
         "children": [
           {
             "id": "c5a7940d8ee699aa",
@@ -14,7 +37,7 @@
               "type": "markdown",
               "state": {
                 "file": "unity引擎/urp渲染/各向异性基础渲染.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -136,20 +159,6 @@
             }
           },
           {
-            "id": "5216d6e87cf81822",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
-          },
-          {
             "id": "5ae945ac14262112",
             "type": "leaf",
             "state": {
@@ -160,11 +169,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,27 +192,30 @@
   },
   "active": "c5a7940d8ee699aa",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250328000115.png",
+    "unity引擎/urp渲染/各向异性基础渲染.md",
+    "unity引擎/urp渲染/水面渲染（ING）.md",
+    "unity引擎/urp渲染/水下后处理（TODO）.md",
+    "unity引擎/urp渲染/草地渲染（TODO）.md",
+    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
+    "unity引擎/urp渲染/大气散射（TODO）.md",
+    "unity引擎/urp渲染/PBR流程（TODO）.md",
+    "unity引擎/urp渲染/头发渲染（TODO）.md",
+    "unity引擎/urp渲染/贴花（TODO）.md",
+    "unity引擎/urp渲染/体渲染（TODO）.md",
+    "unity引擎/urp渲染/体积雾（TODO）.md",
+    "unity引擎/urp渲染/体积光（TODO）.md",
     "attachments/Pasted image 20250328000136.png",
     "attachments/Pasted image 20250328000125.png",
-    "attachments/Pasted image 20250328000115.png",
+    "unity引擎/image.md",
     "attachments",
     "Pasted image 20250327234107.png",
     "Pasted image 20250327233851.png",
-    "unity引擎/urp渲染/各向异性基础渲染.md",
     "Pasted image 20250327233812.png",
-    "unity引擎/urp渲染/大气散射（TODO）.md",
     "Excalidraw/Drawing 2025-03-27 23.18.29.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2025-03-27 23.15.32.excalidraw.md",
     "未命名.canvas",
-    "unity引擎/urp渲染/水下后处理（TODO）.md",
-    "unity引擎/urp渲染/体积光（TODO）.md",
-    "unity引擎/urp渲染/体积雾（TODO）.md",
-    "unity引擎/urp渲染/体渲染（TODO）.md",
-    "unity引擎/urp渲染/贴花（TODO）.md",
-    "unity引擎/urp渲染/头发渲染（TODO）.md",
-    "unity引擎/urp渲染/草地渲染（TODO）.md",
-    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
     "unity引擎/SRP渲染管线/自定义渲染管线（TODO）.md",
     "unity引擎/SRP渲染管线/自定义后处理（TODO）.md",
     "unity引擎/SRP渲染管线",
@@ -216,8 +229,6 @@
     "优化相关.md",
     "unity引擎/优化相关/GPU实例",
     "unity引擎/优化相关/Job多线程",
-    "unity引擎/urp渲染/水面渲染（ING）.md",
-    "unity引擎/urp渲染/PBR流程（TODO）.md",
     "欢迎.md"
   ]
 }

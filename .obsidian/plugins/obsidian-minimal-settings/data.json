@@ -1,7 +1,7 @@
 {
-  "lightStyle": "minimal-light-contrast",
+  "lightStyle": "minimal-light",
   "darkStyle": "minimal-dark",
-  "lightScheme": "minimal-macos-light",
+  "lightScheme": "minimal-things-light",
   "darkScheme": "minimal-atom-dark",
   "editorFont": "",
   "lineHeight": 1.5,
@@ -15,7 +15,7 @@
   "tableWidth": "table-default-width",
   "iframeWidth": "iframe-default-width",
   "mapWidth": "map-default-width",
-  "chartWidth": "chart-max",
+  "chartWidth": "chart-default-width",
   "colorfulHeadings": true,
   "colorfulFrame": false,
   "colorfulActiveStates": true,
