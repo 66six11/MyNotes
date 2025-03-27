@@ -21,7 +21,7 @@
   "colorfulActiveStates": true,
   "trimNames": true,
   "labeledNav": false,
-  "fullWidthMedia": true,
+  "fullWidthMedia": false,
   "bordersToggle": false,
   "minimalStatus": true,
   "focusMode": false,
