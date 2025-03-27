@@ -182,10 +182,14 @@
   },
   "active": "c5a7940d8ee699aa",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250328000136.png",
+    "attachments/Pasted image 20250328000125.png",
+    "attachments/Pasted image 20250328000115.png",
+    "attachments",
     "Pasted image 20250327234107.png",
     "Pasted image 20250327233851.png",
-    "Pasted image 20250327233812.png",
     "unity引擎/urp渲染/各向异性基础渲染.md",
+    "Pasted image 20250327233812.png",
     "unity引擎/urp渲染/大气散射（TODO）.md",
     "Excalidraw/Drawing 2025-03-27 23.18.29.excalidraw.md",
     "Excalidraw",
@@ -212,7 +216,6 @@
     "优化相关.md",
     "unity引擎/优化相关/GPU实例",
     "unity引擎/优化相关/Job多线程",
-    "unity引擎/优化相关/计算着色器",
     "unity引擎/urp渲染/水面渲染（ING）.md",
     "unity引擎/urp渲染/PBR流程（TODO）.md",
     "欢迎.md"

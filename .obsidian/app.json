@@ -3,5 +3,6 @@
   "useMarkdownLinks": true,
   "strictLineBreaks": false,
   "rightToLeft": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "attachmentFolderPath": "attachments"
 }

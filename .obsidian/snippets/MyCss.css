@@ -7,7 +7,7 @@
     --size-medium: 50%;
     --size-large: 80%;
     --size-full: 100%;
-   
+    
 }
 .size-s{
     width: var(--size-small);
