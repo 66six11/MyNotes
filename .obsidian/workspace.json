@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 277.5
   },
   "right": {
     "id": "60099482cae98570",
