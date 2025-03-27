@@ -20,10 +20,11 @@
         "order": 1
       },
       {
-        "rule": "\\.(shader)$",
-        "icon": "🇲🇭",
+        "rule": "Shader",
+        "icon": "UnShader",
         "for": "everything",
-        "order": 1
+        "order": 1,
+        "color": "#ff0000"
       }
     ],
     "extraMargin": {
@@ -42,7 +43,7 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "lucideIconPackType": "native",
+    "lucideIconPackType": "custom",
     "debugMode": false,
     "useInternalPlugins": false
   },
