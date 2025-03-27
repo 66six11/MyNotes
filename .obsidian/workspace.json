@@ -15,7 +15,7 @@
               "state": {
                 "file": "unity引擎/urp渲染/各向异性基础渲染.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "各向异性基础渲染"
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 253.5
   },
   "right": {
     "id": "60099482cae98570",
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +181,14 @@
   },
   "active": "c5a7940d8ee699aa",
   "lastOpenFiles": [
-    "unity引擎/urp渲染/水下后处理（TODO）.md",
+    "unity引擎/urp渲染/大气散射（TODO）.md",
     "unity引擎/urp渲染/各向异性基础渲染.md",
+    "unity引擎/urp渲染/水下后处理（TODO）.md",
     "unity引擎/urp渲染/体积光（TODO）.md",
     "unity引擎/urp渲染/体积雾（TODO）.md",
     "unity引擎/urp渲染/体渲染（TODO）.md",
     "unity引擎/urp渲染/贴花（TODO）.md",
     "unity引擎/urp渲染/头发渲染（TODO）.md",
-    "unity引擎/urp渲染/大气散射（TODO）.md",
     "unity引擎/urp渲染/草地渲染（TODO）.md",
     "unity引擎/urp渲染/程序化天空盒（TODO）.md",
     "unity引擎/SRP渲染管线/自定义渲染管线（TODO）.md",

@@ -2,5 +2,6 @@
   "newFileLocation": "root",
   "useMarkdownLinks": true,
   "strictLineBreaks": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "readableLineLength": false
 }
