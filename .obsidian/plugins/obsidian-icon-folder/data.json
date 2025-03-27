@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OcFileBinary16",
       "LiImage",
       "LiCodesandbox",
       "LiCode2"
@@ -13,10 +14,16 @@
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
-        "rule": "image",
+        "rule": "\\.(jpe?g|png|gif|bmp|webp|svg|tiff?|ico)$",
         "icon": "LiImage",
         "for": "everything",
-        "order": 0
+        "order": 1
+      },
+      {
+        "rule": "\\.(shader)$",
+        "icon": "🇲🇭",
+        "for": "everything",
+        "order": 1
       }
     ],
     "extraMargin": {
@@ -41,7 +48,5 @@
   },
   "unity引擎": "LiCode2",
   "计算机图形学学习": "LiCodesandbox",
-  "attachments/Pasted image 20250328000115.png": "LiImage",
-  "attachments/Pasted image 20250328000125.png": "LiImage",
-  "attachments/Pasted image 20250328000136.png": "LiImage"
+  "attachments": "OcFileBinary16"
 }
