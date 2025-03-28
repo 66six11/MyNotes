@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,12 +187,12 @@
       "pdf-plus:PDF++: 切换自动粘贴": false
     }
   },
-  "active": "8a08c22e8355ead8",
+  "active": "a8e6d198376ade2c",
   "lastOpenFiles": [
-    "unity引擎/urp渲染/水面渲染（ING）.md",
-    "unity引擎/urp渲染/各向异性基础渲染.md",
-    "未命名.md",
     "unity引擎/urp渲染/大气散射（TODO）.md",
+    "unity引擎/urp渲染/各向异性基础渲染.md",
+    "unity引擎/urp渲染/水面渲染（ING）.md",
+    "未命名.md",
     "unity引擎/urp渲染/草地渲染（TODO）.md",
     "unity引擎/urp渲染/程序化天空盒（TODO）.md",
     "unity引擎/ShaderLibrary/AnisotropicURP.shader",
