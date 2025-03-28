@@ -10,5 +10,7 @@
   "obsidian-excalidraw-plugin",
   "cmdr",
   "obsidian-file-cleaner",
-  "pdf-plus"
+  "pdf-plus",
+  "hot-reload",
+  "66s"
 ]
