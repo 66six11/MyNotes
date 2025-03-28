@@ -6,7 +6,7 @@
       {
         "id": "c008978a3ad92fcf",
         "type": "tabs",
-        "dimension": 19.801980198019802,
+        "dimension": 19.8019801980198,
         "children": [
           {
             "id": "3473938247469eed",
@@ -30,7 +30,7 @@
       {
         "id": "b2181bdf58ae142f",
         "type": "tabs",
-        "dimension": 80.19801980198021,
+        "dimension": 80.1980198019802,
         "children": [
           {
             "id": "f81e5982f84bdfaa",
@@ -197,8 +197,10 @@
       "pdf-plus:PDF++: 切换自动粘贴": false
     }
   },
-  "active": "b46e3952943ab655",
+  "active": "f81e5982f84bdfaa",
   "lastOpenFiles": [
+    "unity引擎/urp渲染/水面渲染（ING）.md",
+    "unity引擎/urp渲染/各向异性基础渲染.md",
     "unity引擎/ShaderLibrary/AnisotropicURP.shader",
     "unity引擎/urp渲染/草地渲染（TODO）.md",
     "unity引擎/urp渲染/程序化天空盒（TODO）.md",
@@ -212,9 +214,7 @@
     "unity引擎/ShaderLibrary/Outline.shader",
     "attachments/Pasted image 20250328000125.png",
     "attachments/Pasted image 20250328000136.png",
-    "unity引擎/urp渲染/各向异性基础渲染.md",
     "attachments/Pasted image 20250328010322.png",
-    "unity引擎/urp渲染/水面渲染（ING）.md",
     "attachments/Pasted image 20250328005531.png",
     "未命名.md",
     "unity引擎/urp渲染/水下后处理（TODO）.md",
@@ -239,7 +239,6 @@
     "unity引擎/特效",
     "unity引擎/物理模拟",
     "unity引擎",
-    "计算机图形学学习",
     "优化相关.md",
     "欢迎.md"
   ]
