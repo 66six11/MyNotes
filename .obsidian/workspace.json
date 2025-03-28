@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "unity引擎/urp渲染/草地渲染（TODO）.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -178,11 +178,23 @@
       "obsidian-git:打开Git源代码管理": false,
       "obsidian42-brat:BRAT": false,
       "i18n:I18N": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-file-cleaner:清理文件": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "pdf-plus:PDF++: 切换自动复制": false,
+      "pdf-plus:PDF++: 切换自动对焦": false,
+      "pdf-plus:PDF++: 切换自动粘贴": false
     }
   },
   "active": "f81e5982f84bdfaa",
   "lastOpenFiles": [
+    "unity引擎/urp渲染/大气散射（TODO）.md",
+    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
+    "unity引擎/SRP渲染管线/自定义后处理（TODO）.md",
+    "unity引擎/SRP渲染管线/自定义渲染管线（TODO）.md",
+    "unity引擎/urp渲染/草地渲染（TODO）.md",
     "attachments/Outline.shader",
     "attachments/Pasted image 20250328000115.png",
     "unity引擎/ShaderLibrary/未命名.md",
@@ -192,12 +204,9 @@
     "unity引擎/urp渲染/各向异性基础渲染.md",
     "attachments/Pasted image 20250328010322.png",
     "unity引擎/urp渲染/水面渲染（ING）.md",
-    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
     "attachments/Pasted image 20250328005531.png",
     "未命名.md",
     "unity引擎/urp渲染/水下后处理（TODO）.md",
-    "unity引擎/urp渲染/草地渲染（TODO）.md",
-    "unity引擎/urp渲染/大气散射（TODO）.md",
     "unity引擎/urp渲染/PBR流程（TODO）.md",
     "unity引擎/urp渲染/头发渲染（TODO）.md",
     "unity引擎/urp渲染/贴花（TODO）.md",
@@ -213,8 +222,6 @@
     "Excalidraw",
     "Excalidraw/Drawing 2025-03-27 23.15.32.excalidraw.md",
     "未命名.canvas",
-    "unity引擎/SRP渲染管线/自定义渲染管线（TODO）.md",
-    "unity引擎/SRP渲染管线/自定义后处理（TODO）.md",
     "unity引擎/SRP渲染管线",
     "2025-03-26.md",
     "物理模拟.md",
@@ -224,7 +231,6 @@
     "计算机图形学学习",
     "unity引擎/ShaderLibrary",
     "优化相关.md",
-    "unity引擎/优化相关/GPU实例",
     "欢迎.md"
   ]
 }

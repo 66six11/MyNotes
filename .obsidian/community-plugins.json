@@ -8,5 +8,7 @@
   "oz-image-plugin",
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
-  "cmdr"
+  "cmdr",
+  "obsidian-file-cleaner",
+  "pdf-plus"
 ]
