@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiShadcnui",
       "OcFileBinary16",
       "LiImage",
       "LiCodesandbox",
@@ -48,5 +49,6 @@
   },
   "unity引擎": "LiCode2",
   "计算机图形学学习": "LiCodesandbox",
-  "attachments": "OcFileBinary16"
+  "attachments": "OcFileBinary16",
+  "unity引擎/ShaderLibrary": "SiShadcnui"
 }

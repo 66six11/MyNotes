@@ -144,6 +144,21 @@
               "icon": "git-pull-request",
               "title": "源代码管理"
             }
+          },
+          {
+            "id": "3473938247469eed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "unity引擎/urp渲染/草地渲染（TODO）.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "草地渲染（TODO） 的大纲"
+            }
           }
         ],
         "currentTab": 3

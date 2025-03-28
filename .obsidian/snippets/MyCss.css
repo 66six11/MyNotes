@@ -1,31 +1,5 @@
-.center{
-    display: block;
-    margin: 0 auto;
-}
-:root{
-    --size-small: 20%;
-    --size-medium: 50%;
-    --size-large: 80%;
-    --size-full: 100%;
-    
-}
-.size-s{
-    width: var(--size-small);
-    height: var(--size-small);
-}
-.size-m{
-    width: var(--size-medium);
-    height: var(--size-medium);
-}
-.size-l{
-    width: var(--size-large);
-    height: var(--size-large);
-}
-.size-f{
-    width: var(--size-full);
-    height: var(--size-full);
-}
+
 .markdown-preview-view img {
-    display: block;
-    margin: 0 auto;
+  display: block;
+  margin: 0 auto;
 }
