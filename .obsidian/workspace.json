@@ -145,14 +145,28 @@
               "icon": "git-pull-request",
               "title": "源代码管理"
             }
+          },
+          {
+            "id": "8a08c22e8355ead8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "unity引擎/urp渲染/各向异性基础渲染.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "各向异性基础渲染 的大纲"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +186,7 @@
       "pdf-plus:PDF++: 切换自动粘贴": false
     }
   },
-  "active": "a8e6d198376ade2c",
+  "active": "8a08c22e8355ead8",
   "lastOpenFiles": [
     "unity引擎/urp渲染/水面渲染（ING）.md",
     "unity引擎/urp渲染/各向异性基础渲染.md",
