@@ -1,5 +1,5 @@
 ![](Outline.shader)![](Outline.shader)![](test.py)
-```py
+```python
 import os
 print("Hello, world!")
 ```
