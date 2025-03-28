@@ -6,41 +6,16 @@
       {
         "id": "c008978a3ad92fcf",
         "type": "tabs",
-        "dimension": 19.8019801980198,
         "children": [
           {
-            "id": "3473938247469eed",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "unity引擎/urp渲染/各向异性基础渲染.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "pinned": true,
-              "icon": "lucide-list",
-              "title": "各向异性基础渲染 的大纲"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b2181bdf58ae142f",
-        "type": "tabs",
-        "dimension": 80.1980198019802,
-        "children": [
-          {
-            "id": "f81e5982f84bdfaa",
+            "id": "a8e6d198376ade2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "unity引擎/urp渲染/各向异性基础渲染.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "各向异性基础渲染"
@@ -197,15 +172,16 @@
       "pdf-plus:PDF++: 切换自动粘贴": false
     }
   },
-  "active": "f81e5982f84bdfaa",
+  "active": "a8e6d198376ade2c",
   "lastOpenFiles": [
     "unity引擎/urp渲染/水面渲染（ING）.md",
     "unity引擎/urp渲染/各向异性基础渲染.md",
-    "unity引擎/ShaderLibrary/AnisotropicURP.shader",
+    "未命名.md",
+    "unity引擎/urp渲染/大气散射（TODO）.md",
     "unity引擎/urp渲染/草地渲染（TODO）.md",
     "unity引擎/urp渲染/程序化天空盒（TODO）.md",
+    "unity引擎/ShaderLibrary/AnisotropicURP.shader",
     "unity引擎/ShaderLibrary/test.py",
-    "unity引擎/urp渲染/大气散射（TODO）.md",
     "unity引擎/SRP渲染管线/自定义后处理（TODO）.md",
     "unity引擎/SRP渲染管线/自定义渲染管线（TODO）.md",
     "attachments/Outline.shader",
@@ -216,7 +192,6 @@
     "attachments/Pasted image 20250328000136.png",
     "attachments/Pasted image 20250328010322.png",
     "attachments/Pasted image 20250328005531.png",
-    "未命名.md",
     "unity引擎/urp渲染/水下后处理（TODO）.md",
     "unity引擎/urp渲染/PBR流程（TODO）.md",
     "unity引擎/urp渲染/头发渲染（TODO）.md",
