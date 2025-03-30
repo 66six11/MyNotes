@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,15 +188,15 @@
   },
   "active": "a8e6d198376ade2c",
   "lastOpenFiles": [
-    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
-    "unity引擎/urp渲染/草地渲染（TODO）.md",
-    "unity引擎/urp渲染/各向异性基础渲染.md",
     "unity引擎/urp渲染/水下后处理（TODO）.md",
+    "unity引擎/urp渲染/水面渲染（ING）.md",
+    "unity引擎/urp渲染/草地渲染（TODO）.md",
+    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
+    "unity引擎/urp渲染/大气散射（TODO）.md",
+    "unity引擎/urp渲染/各向异性基础渲染.md",
     "unity引擎/urp渲染/体积光（TODO）.md",
     "unity引擎/urp渲染/体积雾（TODO）.md",
     "unity引擎/urp渲染/体渲染（TODO）.md",
-    "unity引擎/urp渲染/大气散射（TODO）.md",
-    "unity引擎/urp渲染/水面渲染（ING）.md",
     "未命名.md",
     "unity引擎/ShaderLibrary/AnisotropicURP.shader",
     "unity引擎/ShaderLibrary/test.py",
