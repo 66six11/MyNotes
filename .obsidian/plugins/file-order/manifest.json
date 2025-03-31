@@ -1,0 +1,11 @@
+{
+    "id": "file-order",
+    "name": "File Order",
+    "description": "使用数字前缀来定义文件排序，拖放文件即可更新排序顺序",
+    "author": "Lukas Bach",
+    "authorUrl": "https://lukasbach.com",
+    "fundingUrl": "https://github.com/sponsors/lukasbach",
+    "minAppVersion": "0.15.0",
+    "version": "0.0.11",
+    "isDesktopOnly": false
+}
