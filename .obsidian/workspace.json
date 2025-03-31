@@ -4,8 +4,33 @@
     "type": "split",
     "children": [
       {
+        "id": "9538cdec19cfd20b",
+        "type": "tabs",
+        "dimension": 22.573363431151243,
+        "children": [
+          {
+            "id": "8a08c22e8355ead8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "unity引擎/urp渲染/各向异性基础渲染.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "pinned": true,
+              "icon": "lucide-list",
+              "title": "各向异性基础渲染 的大纲"
+            }
+          }
+        ]
+      },
+      {
         "id": "c008978a3ad92fcf",
         "type": "tabs",
+        "dimension": 77.42663656884876,
         "children": [
           {
             "id": "a8e6d198376ade2c",
@@ -145,28 +170,14 @@
               "icon": "git-pull-request",
               "title": "源代码管理"
             }
-          },
-          {
-            "id": "8a08c22e8355ead8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "unity引擎/urp渲染/各向异性基础渲染.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "各向异性基础渲染 的大纲"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +188,6 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-git:打开Git源代码管理": false,
-      "obsidian42-brat:BRAT": false,
       "i18n:I18N": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-file-cleaner:清理文件": false,
@@ -188,20 +198,20 @@
   },
   "active": "a8e6d198376ade2c",
   "lastOpenFiles": [
-    "unity引擎/urp渲染/水下后处理（TODO）.md",
-    "unity引擎/urp渲染/水面渲染（ING）.md",
-    "unity引擎/urp渲染/草地渲染（TODO）.md",
-    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
-    "unity引擎/urp渲染/大气散射（TODO）.md",
+    "unity引擎/SRP渲染管线/自定义渲染管线（TODO）.md",
+    "unity引擎/SRP渲染管线/自定义后处理（TODO）.md",
     "unity引擎/urp渲染/各向异性基础渲染.md",
+    "unity引擎/urp渲染/水面渲染（ING）.md",
+    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
+    "unity引擎/urp渲染/草地渲染（TODO）.md",
+    "unity引擎/urp渲染/水下后处理（TODO）.md",
+    "unity引擎/urp渲染/大气散射（TODO）.md",
     "unity引擎/urp渲染/体积光（TODO）.md",
     "unity引擎/urp渲染/体积雾（TODO）.md",
     "unity引擎/urp渲染/体渲染（TODO）.md",
     "未命名.md",
     "unity引擎/ShaderLibrary/AnisotropicURP.shader",
     "unity引擎/ShaderLibrary/test.py",
-    "unity引擎/SRP渲染管线/自定义后处理（TODO）.md",
-    "unity引擎/SRP渲染管线/自定义渲染管线（TODO）.md",
     "attachments/Outline.shader",
     "attachments/Pasted image 20250328000115.png",
     "unity引擎/ShaderLibrary/未命名.md",
