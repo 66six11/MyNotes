@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity引擎/urp渲染/⚠ URPshader注意项.md",
-                "mode": "preview",
+                "file": "计算机图形学学习/BRDF推导.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "⚠ URPshader注意项"
+              "title": "BRDF推导"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity引擎/urp渲染/⚠ URPshader注意项.md",
+                "file": "计算机图形学学习/BRDF推导.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "⚠ URPshader注意项 的大纲"
+              "title": "BRDF推导 的大纲"
             }
           }
         ],
@@ -188,12 +188,13 @@
   },
   "active": "a8e6d198376ade2c",
   "lastOpenFiles": [
+    "unity引擎/urp渲染/⚠ URPshader注意项.md",
+    "unity引擎/urp渲染/草地渲染（TODO）.md",
+    "计算机图形学学习/BRDF推导.md",
     "unity引擎/urp渲染/程序化天空盒（TODO）.md",
     "unity引擎/urp渲染/各向异性基础渲染.md",
     "unity引擎/urp渲染/水面渲染（ING）.md",
     "unity引擎/urp渲染/体积光（TODO）.md",
-    "unity引擎/urp渲染/⚠ URPshader注意项.md",
-    "unity引擎/urp渲染/草地渲染（TODO）.md",
     "unity引擎/urp渲染/PBR流程（TODO）.md",
     "unity引擎/ShaderLibrary/VolumeLight.shader",
     "unity引擎/urp渲染/水下后处理（TODO）.md",
