@@ -1,0 +1,11 @@
+{
+    "id": "obsidian-latex-suite",
+    "name": "Latex Suite",
+    "version": "1.9.8",
+    "minAppVersion": "1.0.0",
+    "description": "通过片段、文本扩展和编辑器增强功能，使排版 LaTeX 数学公式的速度和手写一样快 < (￣︶￣)>",
+    "author": "artisticat",
+    "authorUrl": "https://github.com/artisticat1",
+    "fundingUrl": "https://ko-fi.com/artisticat",
+    "isDesktopOnly": false
+}
