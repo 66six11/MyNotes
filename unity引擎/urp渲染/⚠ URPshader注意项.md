@@ -1,9 +1,12 @@
-# 多Pass渲染
+
+# 多Pass渲染 
+> [!tip] 提示
 > 每一个pass都需要不同的lightmode分配
 
 # 深度写入
 > 需要单独的Pass写入深度
-> 必须包含顶点着色器
+>> [!warning] 注意
+>> 必须包含顶点着色器
 
 ```hlsl
 Pass  

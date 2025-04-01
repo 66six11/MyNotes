@@ -4,33 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "9538cdec19cfd20b",
-        "type": "tabs",
-        "dimension": 22.573363431151243,
-        "children": [
-          {
-            "id": "8a08c22e8355ead8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "unity引擎/urp渲染/04 各向异性基础渲染.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "pinned": true,
-              "icon": "lucide-list",
-              "title": "04 各向异性基础渲染 的大纲"
-            }
-          }
-        ]
-      },
-      {
         "id": "c008978a3ad92fcf",
         "type": "tabs",
-        "dimension": 77.42663656884876,
         "children": [
           {
             "id": "a8e6d198376ade2c",
@@ -38,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity引擎/urp渲染/00 URPshader注意项.md",
+                "file": "unity引擎/urp渲染/⚠ URPshader注意项.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00 URPshader注意项"
+              "title": "⚠ URPshader注意项"
             }
           }
         ]
@@ -170,6 +145,21 @@
               "icon": "git-pull-request",
               "title": "源代码管理"
             }
+          },
+          {
+            "id": "d6a7468f0755e922",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "unity引擎/urp渲染/⚠ URPshader注意项.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "⚠ URPshader注意项 的大纲"
+            }
           }
         ],
         "currentTab": 3
@@ -196,21 +186,22 @@
       "pdf-plus:PDF++: 切换自动粘贴": false
     }
   },
-  "active": "8a08c22e8355ead8",
+  "active": "a8e6d198376ade2c",
   "lastOpenFiles": [
+    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
+    "unity引擎/urp渲染/各向异性基础渲染.md",
+    "unity引擎/urp渲染/水面渲染（ING）.md",
+    "unity引擎/urp渲染/体积光（TODO）.md",
+    "unity引擎/urp渲染/⚠ URPshader注意项.md",
+    "unity引擎/urp渲染/草地渲染（TODO）.md",
+    "unity引擎/urp渲染/PBR流程（TODO）.md",
     "unity引擎/ShaderLibrary/VolumeLight.shader",
-    "unity引擎/urp渲染/00 URPshader注意项.md",
-    "unity引擎/urp渲染/01 草地渲染（TODO）.md",
-    "unity引擎/urp渲染/06 水下后处理（TODO）.md",
-    "unity引擎/urp渲染/05 水面渲染（ING）.md",
-    "unity引擎/urp渲染/04 各向异性基础渲染.md",
-    "unity引擎/urp渲染/07 体积光（TODO）.md",
+    "unity引擎/urp渲染/水下后处理（TODO）.md",
     "unity引擎/SRP渲染管线/自定义渲染管线（TODO）.md",
     "unity引擎/SRP渲染管线/自定义后处理（TODO）.md",
-    "unity引擎/urp渲染/02 程序化天空盒（TODO）.md",
-    "unity引擎/urp渲染/03 大气散射（TODO）.md",
-    "unity引擎/urp渲染/08 体积雾（TODO）.md",
-    "unity引擎/urp渲染/09 体渲染（TODO）.md",
+    "unity引擎/urp渲染/大气散射（TODO）.md",
+    "unity引擎/urp渲染/体积雾（TODO）.md",
+    "unity引擎/urp渲染/体渲染（TODO）.md",
     "未命名.md",
     "unity引擎/ShaderLibrary/AnisotropicURP.shader",
     "unity引擎/ShaderLibrary/test.py",
@@ -222,9 +213,8 @@
     "attachments/Pasted image 20250328000136.png",
     "attachments/Pasted image 20250328010322.png",
     "attachments/Pasted image 20250328005531.png",
-    "unity引擎/urp渲染/12 PBR流程（TODO）.md",
-    "unity引擎/urp渲染/11 头发渲染（TODO）.md",
-    "unity引擎/urp渲染/10 贴花（TODO）.md",
+    "unity引擎/urp渲染/头发渲染（TODO）.md",
+    "unity引擎/urp渲染/贴花（TODO）.md",
     "unity引擎/image.md",
     "attachments",
     "Pasted image 20250327234107.png",
@@ -239,7 +229,6 @@
     "物理模拟.md",
     "unity引擎/特效",
     "unity引擎/物理模拟",
-    "unity引擎",
     "优化相关.md",
     "欢迎.md"
   ]
