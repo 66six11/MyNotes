@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f2931f739870aa6",
+        "id": "4ec726f362364de4",
         "type": "tabs",
         "children": [
           {
-            "id": "8bd804d43ba9a221",
+            "id": "6cb39e5a8da1d5c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "计算机图形学学习/辐射度量学.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "辐射度量学"
             }
           }
         ]
@@ -182,15 +186,17 @@
       "pdf-plus:PDF++: 切换自动粘贴": false
     }
   },
-  "active": "8bd804d43ba9a221",
+  "active": "6cb39e5a8da1d5c0",
   "lastOpenFiles": [
+    "计算机图形学学习/立体角.md",
+    "计算机图形学学习/BRDF推导.md",
+    "计算机图形学学习/辐射度量学.md",
+    "@ref.md",
     "unity引擎/urp渲染/大气散射（TODO）.md",
     "unity引擎/urp渲染/草地渲染（TODO）.md",
     "unity引擎/urp渲染/⚠ URPshader注意项.md",
     "unity引擎/urp渲染/后处理",
     "unity引擎/urp渲染/后处理/体积光（TODO）.md",
-    "计算机图形学学习/BRDF推导.md",
-    "计算机图形学学习/立体角.md",
     "mastjax/preamble.sty",
     "mastjax",
     "attachments/Pasted image 20250401210250.png",
@@ -228,7 +234,6 @@
     "Excalidraw/Drawing 2025-03-27 23.18.29.excalidraw.md",
     "Excalidraw/Drawing 2025-03-27 23.15.32.excalidraw.md",
     "未命名.canvas",
-    "2025-03-26.md",
-    "物理模拟.md"
+    "2025-03-26.md"
   ]
 }
