@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机图形学学习/辐射度量学.md",
-                "mode": "preview",
+                "file": "unity引擎/urp渲染/后处理/Unity6/Unity6后处理系统.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "辐射度量学"
+              "title": "Unity6后处理系统"
             }
           }
         ]
@@ -188,30 +188,33 @@
   },
   "active": "6cb39e5a8da1d5c0",
   "lastOpenFiles": [
+    "unity引擎/urp渲染/PBR流程（TODO）.md",
+    "unity引擎/urp渲染/贴花（TODO）.md",
+    "unity引擎/urp渲染/水面渲染（ING）.md",
+    "unity引擎/urp渲染/草地渲染（TODO）.md",
+    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
+    "unity引擎/urp渲染/后处理/体积雾（TODO）.md",
+    "unity引擎/urp渲染/后处理/水下后处理（TODO）.md",
+    "unity引擎/urp渲染/后处理/Unity6/Unity6后处理系统.md",
+    "unity引擎/urp渲染/后处理/体积光（TODO）.md",
+    "unity引擎/urp渲染/后处理/Unity6",
+    "计算机图形学学习/辐射度量学.md",
     "计算机图形学学习/立体角.md",
     "计算机图形学学习/BRDF推导.md",
-    "计算机图形学学习/辐射度量学.md",
     "@ref.md",
     "unity引擎/urp渲染/大气散射（TODO）.md",
-    "unity引擎/urp渲染/草地渲染（TODO）.md",
     "unity引擎/urp渲染/⚠ URPshader注意项.md",
     "unity引擎/urp渲染/后处理",
-    "unity引擎/urp渲染/后处理/体积光（TODO）.md",
     "mastjax/preamble.sty",
     "mastjax",
     "attachments/Pasted image 20250401210250.png",
     "attachments/Pasted image 20250401204316.png",
     "Excalidraw/Drawing 2025-04-01 20.27.21.excalidraw.md",
     "Excalidraw",
-    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
     "unity引擎/urp渲染/各向异性基础渲染.md",
-    "unity引擎/urp渲染/水面渲染（ING）.md",
-    "unity引擎/urp渲染/PBR流程（TODO）.md",
     "unity引擎/ShaderLibrary/VolumeLight.shader",
-    "unity引擎/urp渲染/后处理/水下后处理（TODO）.md",
     "unity引擎/SRP渲染管线/自定义渲染管线（TODO）.md",
     "unity引擎/SRP渲染管线/自定义后处理（TODO）.md",
-    "unity引擎/urp渲染/后处理/体积雾（TODO）.md",
     "unity引擎/urp渲染/体渲染（TODO）.md",
     "未命名.md",
     "unity引擎/ShaderLibrary/AnisotropicURP.shader",
@@ -225,15 +228,11 @@
     "attachments/Pasted image 20250328010322.png",
     "attachments/Pasted image 20250328005531.png",
     "unity引擎/urp渲染/头发渲染（TODO）.md",
-    "unity引擎/urp渲染/贴花（TODO）.md",
     "unity引擎/image.md",
-    "attachments",
     "Pasted image 20250327234107.png",
     "Pasted image 20250327233851.png",
     "Pasted image 20250327233812.png",
     "Excalidraw/Drawing 2025-03-27 23.18.29.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-27 23.15.32.excalidraw.md",
-    "未命名.canvas",
-    "2025-03-26.md"
+    "未命名.canvas"
   ]
 }
