@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "各项同性PBR渲染"
             }
+          },
+          {
+            "id": "46f00d092d32ae13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian语法.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian语法"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,10 +201,11 @@
       "pdf-plus:PDF++: 切换自动粘贴": false
     }
   },
-  "active": "6cb39e5a8da1d5c0",
+  "active": "46f00d092d32ae13",
   "lastOpenFiles": [
-    "unity引擎/urp渲染/各向异性基础渲染.md",
     "unity引擎/urp渲染/各项同性PBR渲染.md",
+    "Obsidian语法.md",
+    "unity引擎/urp渲染/各向异性基础渲染.md",
     "attachments/Pasted image 20250420221503.png",
     "计算机图形学学习/BRDF推导.md",
     "unity引擎/urp渲染/后处理/Unity6/Unity6后处理系统.md",
@@ -218,7 +234,6 @@
     "unity引擎/SRP渲染管线/自定义渲染管线（TODO）.md",
     "unity引擎/SRP渲染管线/自定义后处理（TODO）.md",
     "unity引擎/urp渲染/体渲染（TODO）.md",
-    "未命名.md",
     "unity引擎/ShaderLibrary/AnisotropicURP.shader",
     "unity引擎/ShaderLibrary/test.py",
     "attachments/Outline.shader",
