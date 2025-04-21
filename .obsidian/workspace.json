@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity引擎/urp渲染/各项同性PBR渲染.md",
+                "file": "unity引擎/urp渲染/后处理/体积雾（TODO）.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "各项同性PBR渲染"
+              "title": "体积雾（TODO）"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity引擎/urp渲染/各项同性PBR渲染.md",
+                "file": "unity引擎/urp渲染/后处理/体积雾（TODO）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "各项同性PBR渲染 的大纲"
+              "title": "体积雾（TODO） 的大纲"
             }
           },
           {
@@ -217,7 +217,15 @@
   },
   "active": "6cb39e5a8da1d5c0",
   "lastOpenFiles": [
+    "unity引擎/urp渲染/后处理/水下后处理（TODO）.md",
+    "unity引擎/urp渲染/后处理/体积光（TODO）.md",
+    "unity引擎/urp渲染/后处理/体积雾（TODO）.md",
+    "unity引擎/urp渲染/⚠ URPshader注意项.md",
     "unity引擎/urp渲染/后处理/Unity6/自适应探针体积APV.md",
+    "unity引擎/urp渲染/后处理/Unity6/Unity6后处理系统.md",
+    "unity引擎/urp渲染/程序化天空盒/程序化天空盒（TODO）.md",
+    "unity引擎/urp渲染/程序化天空盒",
+    "unity引擎/urp渲染/程序化天空盒/大气散射（TODO）.md",
     "unity引擎/urp渲染/各项同性PBR渲染.md",
     "计算机图形学学习/IBL基于图像照明.md",
     "Obsidian语法.md",
@@ -225,8 +233,6 @@
     "Model/笔记属性模板.md",
     "unity引擎/urp渲染/PBR流程（TODO）.md",
     "unity引擎/urp渲染/贴花（TODO）.md",
-    "unity引擎/urp渲染/大气散射（TODO）.md",
-    "unity引擎/urp渲染/后处理/Unity6/Unity6后处理系统.md",
     "Model",
     "unity引擎/urp渲染/头发渲染（TODO）.md",
     "unity引擎/urp渲染/水面渲染（ING）.md",
@@ -234,15 +240,10 @@
     "attachments/Pasted image 20250420221503.png",
     "计算机图形学学习/BRDF推导.md",
     "unity引擎/urp渲染/草地渲染（TODO）.md",
-    "unity引擎/urp渲染/程序化天空盒（TODO）.md",
-    "unity引擎/urp渲染/后处理/体积雾（TODO）.md",
-    "unity引擎/urp渲染/后处理/水下后处理（TODO）.md",
-    "unity引擎/urp渲染/后处理/体积光（TODO）.md",
     "unity引擎/urp渲染/后处理/Unity6",
     "计算机图形学学习/辐射度量学.md",
     "计算机图形学学习/立体角.md",
     "@ref.md",
-    "unity引擎/urp渲染/⚠ URPshader注意项.md",
     "unity引擎/urp渲染/后处理",
     "mastjax/preamble.sty",
     "mastjax",
@@ -252,10 +253,8 @@
     "Excalidraw",
     "unity引擎/ShaderLibrary/VolumeLight.shader",
     "unity引擎/SRP渲染管线/自定义渲染管线（TODO）.md",
-    "unity引擎/SRP渲染管线/自定义后处理（TODO）.md",
     "unity引擎/ShaderLibrary/AnisotropicURP.shader",
     "unity引擎/ShaderLibrary/test.py",
-    "attachments/Outline.shader",
     "attachments/Pasted image 20250328000115.png",
     "attachments/Pasted image 20250328000125.png",
     "attachments/Pasted image 20250328000136.png",
