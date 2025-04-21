@@ -22,7 +22,7 @@
     "excalidraw-css": "text",
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
-    "excalidraw-open-md": "date",
+    "excalidraw-open-md": "checkbox",
     "test": "number",
     "重要性": "checkbox",
     "description": "text",
