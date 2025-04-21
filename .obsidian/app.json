@@ -1,6 +1,6 @@
 {
   "newFileLocation": "root",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "strictLineBreaks": false,
   "rightToLeft": false,
   "readableLineLength": false,
@@ -8,5 +8,6 @@
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
-  "livePreview": false
+  "livePreview": false,
+  "propertiesInDocument": "visible"
 }
