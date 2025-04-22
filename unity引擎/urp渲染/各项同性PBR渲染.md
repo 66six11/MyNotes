@@ -37,6 +37,15 @@ description:
 
 ![[51ce6fd26b8ea72f3c18cf337b96e1d9.png]]
 
+那个 $\hat{\Lambda}$ 公式不是直接从第一个 $\Lambda$ 公式的代换来的 各向异性复杂一些 它考虑了 roughness 在不同方向（t 和 b 方向）都不一样 那个 $\hat{\Lambda}$ 公式是根据各向异性 GGX 的特点 算微平面互相遮挡时推导出来的 里面结合了不同方向的 roughness 和光线（或视线）方向
+
+就是把各向异性那个 $\hat{\Lambda}$ 公式里的 $a_t$ 和 $a_b$ 都换成同一个 $a$。
+然后里面就有 $a^2 (t \cdot l)^2 + a^2 (b \cdot l)^2$ 这项，可以把 $a^2$ 提出来变成 $a^2 ((t \cdot l)^2 + (b \cdot l)^2)$。
+因为 $t, b, n$ 是正交基，对于向量 $l$ 来说， $(t \cdot l)^2 + (b \cdot l)^2 + (n \cdot l)^2 = |l|^2 = 1$。
+所以 $(t \cdot l)^2 + (b \cdot l)^2 = 1 - (n \cdot l)^2$。
+代回去就是 $a^2 (1 - (n \cdot l)^2) + (n \cdot l)^2$ 开根号。
+你看，结果里就没有 $t \cdot l$ 和 $b \cdot l$ 这些跟方向有关的项了，只剩下 $a$ 和 $n \cdot l$ 了，就变成各项同性的了。
+
 [^1]: [[BRDF推导]]
 
 
