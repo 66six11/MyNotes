@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity引擎/urp渲染/体渲染（TODO）.md",
+                "file": "unity引擎/urp渲染/各项同性PBR渲染.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "体渲染（TODO）"
+              "title": "各项同性PBR渲染"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity引擎/urp渲染/体渲染（TODO）.md",
+                "file": "unity引擎/urp渲染/各项同性PBR渲染.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "体渲染（TODO） 的大纲"
+              "title": "各项同性PBR渲染 的大纲"
             }
           },
           {
@@ -217,6 +217,10 @@
   },
   "active": "6cb39e5a8da1d5c0",
   "lastOpenFiles": [
+    "attachments/51ce6fd26b8ea72f3c18cf337b96e1d9.png",
+    "计算机图形学学习/IBL基于图像照明.md",
+    "attachments/Pasted image 20250421225018.png",
+    "unity引擎/urp渲染/体渲染（TODO）.md",
     "unity引擎/urp渲染/各项同性PBR渲染.md",
     "unity引擎/urp渲染/后处理/体积雾（TODO）.md",
     "unity引擎/urp渲染/后处理/水下后处理（TODO）.md",
@@ -227,7 +231,6 @@
     "unity引擎/urp渲染/程序化天空盒/程序化天空盒（TODO）.md",
     "unity引擎/urp渲染/程序化天空盒",
     "unity引擎/urp渲染/程序化天空盒/大气散射（TODO）.md",
-    "计算机图形学学习/IBL基于图像照明.md",
     "Obsidian语法.md",
     "未命名.md",
     "Model/笔记属性模板.md",
@@ -252,7 +255,6 @@
     "Excalidraw/Drawing 2025-04-01 20.27.21.excalidraw.md",
     "Excalidraw",
     "unity引擎/ShaderLibrary/VolumeLight.shader",
-    "unity引擎/SRP渲染管线/自定义渲染管线（TODO）.md",
     "unity引擎/ShaderLibrary/AnisotropicURP.shader",
     "unity引擎/ShaderLibrary/test.py",
     "attachments/Pasted image 20250328000115.png",
@@ -261,7 +263,6 @@
     "attachments/Pasted image 20250328010322.png",
     "attachments/Pasted image 20250328005531.png",
     "Pasted image 20250327234107.png",
-    "Pasted image 20250327233851.png",
     "未命名.canvas"
   ]
 }
