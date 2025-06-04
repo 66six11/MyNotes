@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "4dbd5a4a5bb34146",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "9fe5cfc6488bd9b2",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Obsidian语法"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +228,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "6cb39e5a8da1d5c0",
+  "active": "4dbd5a4a5bb34146",
   "lastOpenFiles": [
     "attachments/51ce6fd26b8ea72f3c18cf337b96e1d9.png",
     "计算机图形学学习/IBL基于图像照明.md",
