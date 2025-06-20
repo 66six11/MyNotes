@@ -4,47 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4ec726f362364de4",
+        "id": "6d28a21d046200e0",
         "type": "tabs",
         "children": [
           {
-            "id": "6cb39e5a8da1d5c0",
+            "id": "85879f9f376d5fdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity引擎/urp渲染/各向异性基础渲染.md",
+                "file": "代码设计/波函数探索坍缩（程序化生成）.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "各向异性基础渲染"
-            }
-          },
-          {
-            "id": "4dbd5a4a5bb34146",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
-            "id": "9fe5cfc6488bd9b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian语法.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian语法"
+              "title": "波函数探索坍缩（程序化生成）"
             }
           }
         ]
@@ -178,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity引擎/urp渲染/各向异性基础渲染.md",
+                "file": "代码设计/波函数探索坍缩（程序化生成）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "各向异性基础渲染 的大纲"
+              "title": "波函数探索坍缩（程序化生成） 的大纲"
             }
           },
           {
@@ -206,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 493.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,15 +201,19 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "6cb39e5a8da1d5c0",
+  "active": "85879f9f376d5fdf",
   "lastOpenFiles": [
+    "Obsidian语法.md",
+    "代码设计/波函数探索坍缩（程序化生成）.md",
+    "未命名.md",
+    "代码设计",
+    "unity引擎/urp渲染/各向异性基础渲染.md",
     "unity引擎/urp渲染/草地渲染（TODO）.md",
     "unity引擎/urp渲染/程序化天空盒/大气散射（TODO）.md",
     "unity引擎/urp渲染/程序化天空盒/程序化天空盒（TODO）.md",
     "unity引擎/urp渲染/⚠ URPshader注意项.md",
     "unity引擎/urp渲染/后处理/体积光（TODO）.md",
     "unity引擎/urp渲染/后处理/体积雾（TODO）.md",
-    "unity引擎/urp渲染/各向异性基础渲染.md",
     "unity引擎/urp渲染/各项同性PBR渲染.md",
     "unity引擎/urp渲染/水面渲染（ING）.md",
     "unity引擎/urp渲染/体渲染（TODO）.md",
@@ -252,8 +230,6 @@
     "attachments/51ce6fd26b8ea72f3c18cf337b96e1d9.png",
     "attachments/Pasted image 20250421225018.png",
     "unity引擎/urp渲染/程序化天空盒",
-    "Obsidian语法.md",
-    "未命名.md",
     "Model/笔记属性模板.md",
     "Model",
     "attachments/Pasted image 20250420221503.png",
@@ -268,7 +244,6 @@
     "Excalidraw",
     "unity引擎/ShaderLibrary/VolumeLight.shader",
     "unity引擎/ShaderLibrary/AnisotropicURP.shader",
-    "unity引擎/ShaderLibrary/test.py",
     "attachments/Pasted image 20250328000115.png",
     "attachments/Pasted image 20250328000125.png",
     "attachments/Pasted image 20250328000136.png",
