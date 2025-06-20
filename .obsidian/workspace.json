@@ -174,13 +174,24 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "980b98110153ca27",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 493.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,19 +209,26 @@
       "pdf-plus:PDF++: 切换自动对焦": false,
       "pdf-plus:PDF++: 切换自动粘贴": false,
       "workspaces:管理工作区布局": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "85879f9f376d5fdf",
   "lastOpenFiles": [
-    "Obsidian语法.md",
+    "计算机图形学学习/PBR/IBL基于图像照明.md",
+    "计算机图形学学习/PBR/BRDF推导.md",
+    "计算机图形学学习/PBR/立体角.md",
+    "计算机图形学学习/PBR/辐射度量学.md",
     "代码设计/波函数探索坍缩（程序化生成）.md",
+    "计算机图形学学习/PBR",
+    "unity引擎/urp渲染/程序化天空盒/程序化天空盒（TODO）.md",
+    "unity引擎/urp渲染/程序化天空盒/大气散射（TODO）.md",
+    "unity引擎/优化相关/ECS DOTS",
+    "Obsidian语法.md",
     "未命名.md",
     "代码设计",
     "unity引擎/urp渲染/各向异性基础渲染.md",
     "unity引擎/urp渲染/草地渲染（TODO）.md",
-    "unity引擎/urp渲染/程序化天空盒/大气散射（TODO）.md",
-    "unity引擎/urp渲染/程序化天空盒/程序化天空盒（TODO）.md",
     "unity引擎/urp渲染/⚠ URPshader注意项.md",
     "unity引擎/urp渲染/后处理/体积光（TODO）.md",
     "unity引擎/urp渲染/后处理/体积雾（TODO）.md",
@@ -223,10 +241,6 @@
     "unity引擎/urp渲染/后处理/Unity6/Unity6后处理系统.md",
     "unity引擎/urp渲染/后处理/Unity6/自适应探针体积APV.md",
     "unity引擎/urp渲染/后处理/水下后处理（TODO）.md",
-    "计算机图形学学习/辐射度量学.md",
-    "计算机图形学学习/立体角.md",
-    "计算机图形学学习/BRDF推导.md",
-    "计算机图形学学习/IBL基于图像照明.md",
     "attachments/51ce6fd26b8ea72f3c18cf337b96e1d9.png",
     "attachments/Pasted image 20250421225018.png",
     "unity引擎/urp渲染/程序化天空盒",
@@ -240,10 +254,7 @@
     "mastjax",
     "attachments/Pasted image 20250401210250.png",
     "attachments/Pasted image 20250401204316.png",
-    "Excalidraw/Drawing 2025-04-01 20.27.21.excalidraw.md",
     "Excalidraw",
-    "unity引擎/ShaderLibrary/VolumeLight.shader",
-    "unity引擎/ShaderLibrary/AnisotropicURP.shader",
     "attachments/Pasted image 20250328000115.png",
     "attachments/Pasted image 20250328000125.png",
     "attachments/Pasted image 20250328000136.png",
