@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity引擎/SRP渲染管线/自定义渲染管线/实现自定义渲染管线.md",
+                "file": "unity引擎/urp渲染/⚠ URPshader注意项.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "实现自定义渲染管线"
+              "title": "⚠ URPshader注意项"
             }
           }
         ]
@@ -215,9 +215,9 @@
   },
   "active": "85879f9f376d5fdf",
   "lastOpenFiles": [
+    "unity引擎/SRP渲染管线/自定义渲染管线/实现自定义渲染管线.md",
     "unity引擎/urp渲染/后处理/Unity6/Unity6后处理系统.md",
     "unity引擎/urp渲染/后处理/Unity6/自适应探针体积APV.md",
-    "unity引擎/SRP渲染管线/自定义渲染管线/实现自定义渲染管线.md",
     "代码设计/波函数探索坍缩（程序化生成）.md",
     "unity引擎/SRP渲染管线/自定义渲染管线.md",
     "unity引擎/SRP渲染管线/自定义渲染管线",
