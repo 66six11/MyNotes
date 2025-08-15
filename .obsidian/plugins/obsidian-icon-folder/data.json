@@ -47,8 +47,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "unity引擎": "LiCode2",
   "计算机图形学学习": "LiCodesandbox",
-  "attachments": "OcFileBinary16",
-  "unity引擎/ShaderLibrary": "SiShadcnui"
+  "attachments": "OcFileBinary16"
 }
