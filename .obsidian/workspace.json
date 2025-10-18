@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "计算机图形学学习/SDF/SDF实现液化融合效果.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -209,11 +209,17 @@
       "pdf-plus:PDF++: 切换自动粘贴": false,
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "publish:发布更改": false
     }
   },
-  "active": "980b98110153ca27",
+  "active": "85879f9f376d5fdf",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251018150717.png",
     "copilot-custom-prompts/Rewrite as press release.md",
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -246,7 +252,6 @@
     "attachments/Pasted image 20250815214131.png",
     "attachments/Pasted image 20250815214056.png",
     "attachments/Pasted image 20250815213919.png",
-    "unity引擎/未命名.md",
     "unity引擎/代码设计",
     "unity引擎/urp渲染/后处理/Unity6",
     "unity引擎/urp渲染/程序化天空盒",
