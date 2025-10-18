@@ -34,7 +34,7 @@
   "defaultOpenArea": "view",
   "customPromptsFolder": "copilot-custom-prompts",
   "indexVaultToVectorStore": "ON MODE SWITCH",
-  "qaExclusions": "",
+  "qaExclusions": "copilot",
   "qaInclusions": "",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],
@@ -52,6 +52,69 @@
       "core": true,
       "plusExclusive": true,
       "projectEnabled": false,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "google/gemini-2.5-flash-lite",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "google/gemini-2.5-flash",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "google/gemini-2.5-pro",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5-nano",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
       "capabilities": [
         "vision"
       ]
@@ -240,6 +303,14 @@
       "core": true
     },
     {
+      "name": "gemini-embedding-001",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
       "name": "text-embedding-3-large",
       "provider": "openai",
       "enabled": true,
@@ -277,84 +348,31 @@
   "promptUsageTimestamps": {},
   "promptSortStrategy": "timestamp",
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
-  "inlineEditCommands": [
-    {
-      "name": "Fix grammar and spelling",
-      "prompt": "Fix the grammar and spelling of {}. Preserve all formatting, line breaks, and special characters. Do not add or remove any content. Return only the corrected text.",
-      "showInContextMenu": true
-    },
-    {
-      "name": "Translate to Chinese",
-      "prompt": "Translate {} into Chinese:\n    1. Preserve the meaning and tone\n    2. Maintain appropriate cultural context\n    3. Keep formatting and structure\n    Return only the translated text.",
-      "showInContextMenu": true
-    },
-    {
-      "name": "Summarize",
-      "prompt": "Create a bullet-point summary of {}. Each bullet point should capture a key point. Return only the bullet-point summary.",
-      "showInContextMenu": true
-    },
-    {
-      "name": "Simplify",
-      "prompt": "Simplify {} to a 6th-grade reading level (ages 11-12). Use simple sentences, common words, and clear explanations. Maintain the original key concepts. Return only the simplified text.",
-      "showInContextMenu": true
-    },
-    {
-      "name": "Emojify",
-      "prompt": "Add relevant emojis to enhance {}. Follow these rules:\n    1. Insert emojis at natural breaks in the text\n    2. Never place two emojis next to each other\n    3. Keep all original text unchanged\n    4. Choose emojis that match the context and tone\n    Return only the emojified text.",
-      "showInContextMenu": true
-    },
-    {
-      "name": "Make shorter",
-      "prompt": "Reduce {} to half its length while preserving these elements:\n    1. Main ideas and key points\n    2. Essential details\n    3. Original tone and style\n    Return only the shortened text.",
-      "showInContextMenu": true
-    },
-    {
-      "name": "Make longer",
-      "prompt": "Expand {} to twice its length by:\n    1. Adding relevant details and examples\n    2. Elaborating on key points\n    3. Maintaining the original tone and style\n    Return only the expanded text.",
-      "showInContextMenu": true
-    },
-    {
-      "name": "Generate table of contents",
-      "prompt": "Generate a hierarchical table of contents for {}. Use appropriate heading levels (H1, H2, H3, etc.). Include page numbers if present. Return only the table of contents.",
-      "showInContextMenu": false
-    },
-    {
-      "name": "Generate glossary",
-      "prompt": "Create a glossary of important terms, concepts, and phrases from {}. Format each entry as \"Term: Definition\". Sort entries alphabetically. Return only the glossary.",
-      "showInContextMenu": false
-    },
-    {
-      "name": "Remove URLs",
-      "prompt": "Remove all URLs from {}. Preserve all other content and formatting. URLs may be in various formats (http, https, www). Return only the text with URLs removed.",
-      "showInContextMenu": false
-    },
-    {
-      "name": "Rewrite as tweet",
-      "prompt": "Rewrite {} as a single tweet with these requirements:\n    1. Maximum 280 characters\n    2. Use concise, impactful language\n    3. Maintain the core message\n    Return only the tweet text.",
-      "showInContextMenu": false
-    },
-    {
-      "name": "Rewrite as tweet thread",
-      "prompt": "Convert {} into a Twitter thread following these rules:\n    1. Each tweet must be under 240 characters\n    2. Start with \"THREAD START\" on its own line\n    3. Separate tweets with \"\n\n---\n\n\"\n    4. End with \"THREAD END\" on its own line\n    5. Make content engaging and clear\n    Return only the formatted thread.",
-      "showInContextMenu": false
-    },
-    {
-      "name": "Explain like I am 5",
-      "prompt": "Explain {} in simple terms that a 5-year-old would understand:\n    1. Use basic vocabulary\n    2. Include simple analogies\n    3. Break down complex concepts\n    Return only the simplified explanation.",
-      "showInContextMenu": false
-    },
-    {
-      "name": "Rewrite as press release",
-      "prompt": "Transform {} into a professional press release:\n    1. Use formal, journalistic style\n    2. Include headline and dateline\n    3. Follow inverted pyramid structure\n    Return only the press release format.",
-      "showInContextMenu": false
-    }
-  ],
+  "inlineEditCommands": [],
   "projectList": [],
-  "enableAutocomplete": true,
+  "enableAutocomplete": false,
   "autocompleteAcceptKey": "Tab",
   "allowAdditionalContext": true,
   "enableWordCompletion": false,
   "lastDismissedVersion": "2.9.5",
   "passMarkdownImages": true,
-  "enableCustomPromptTemplating": true
+  "enableCustomPromptTemplating": true,
+  "lexicalSearchRamLimit": 100,
+  "generateAIChatTitleOnSave": true,
+  "enableInlineCitations": true,
+  "autonomousAgentMaxIterations": 4,
+  "autonomousAgentEnabledToolIds": [
+    "localSearch",
+    "readNote",
+    "webSearch",
+    "pomodoro",
+    "youtubeTranscription",
+    "writeToFile",
+    "replaceInFile",
+    "memoryTool"
+  ],
+  "memoryFolderName": "copilot/memory",
+  "enableRecentConversations": false,
+  "enableSavedMemory": false,
+  "maxRecentConversations": 30
 }

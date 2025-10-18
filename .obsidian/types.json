@@ -26,6 +26,7 @@
     "test": "number",
     "重要性": "checkbox",
     "description": "text",
-    "日期": "date"
+    "日期": "date",
+    "excalidraw-embed-md": "checkbox"
   }
 }
