@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机图形学学习/SDF/SDF实现液化融合效果.md",
-                "mode": "preview",
+                "file": "unity引擎/urp渲染/PBR渲染.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SDF实现液化融合效果"
+              "title": "PBR渲染"
             }
           }
         ]
@@ -219,6 +219,8 @@
   },
   "active": "85879f9f376d5fdf",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251018155750.png",
+    "计算机图形学学习/SDF/SDF实现液化融合效果.md",
     "attachments/Pasted image 20251018150717.png",
     "copilot-custom-prompts/Rewrite as press release.md",
     "copilot-custom-prompts/Explain like I am 5.md",
@@ -237,7 +239,6 @@
     "copilot-custom-prompts",
     "attachments/Pasted image 20251018142302.png",
     "Model/笔记属性模板.md",
-    "计算机图形学学习/SDF/SDF实现液化融合效果.md",
     "计算机图形学学习/SDF",
     "计算机图形学学习/PBR/IBL基于图像照明.md",
     "计算机图形学学习/PBR/BRDF推导.md",
@@ -264,7 +265,6 @@
     "attachments/Pasted image 20250421225018.png",
     "attachments/Pasted image 20250420221503.png",
     "attachments/Pasted image 20250401210250.png",
-    "attachments/Pasted image 20250401204316.png",
     "未命名.canvas"
   ]
 }
