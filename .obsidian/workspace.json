@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity引擎/urp渲染/PBR渲染.md",
+                "file": "unity引擎/urp渲染/头发渲染（TODO）.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PBR渲染"
+              "title": "头发渲染（TODO）"
+            }
+          },
+          {
+            "id": "e96d40226bc89b60",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.14"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,19 +221,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:打开Git源代码管理": false,
       "i18n:I18N": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-file-cleaner:清理文件": false,
-      "pdf-plus:PDF++: 切换自动复制": false,
-      "pdf-plus:PDF++: 切换自动对焦": false,
-      "pdf-plus:PDF++: 切换自动粘贴": false,
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "copilot:Open Copilot Chat": false,
@@ -232,10 +241,10 @@
       "publish:发布更改": false
     }
   },
-  "active": "379720d6a19b21a2",
+  "active": "e96d40226bc89b60",
   "lastOpenFiles": [
-    "unity引擎/urp渲染/各项同性PBR渲染.md",
     "unity引擎/urp渲染/PBR渲染.md",
+    "unity引擎/urp渲染/各项同性PBR渲染.md",
     "unity引擎/urp渲染/头发渲染（TODO）.md",
     "unity引擎/urp渲染/贴花（TODO）.md",
     "计算机图形学学习/SDF/SDF实现液化融合效果.md",
