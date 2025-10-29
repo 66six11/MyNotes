@@ -36,15 +36,17 @@
             }
           },
           {
-            "id": "e96d40226bc89b60",
+            "id": "d9e7a5a07bab41dc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "未命名.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.14"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
@@ -217,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,11 +244,13 @@
       "publish:发布更改": false
     }
   },
-  "active": "e96d40226bc89b60",
+  "active": "d9e7a5a07bab41dc",
   "lastOpenFiles": [
+    "未命名 1.md",
+    "未命名.md",
+    "unity引擎/urp渲染/头发渲染（TODO）.md",
     "unity引擎/urp渲染/PBR渲染.md",
     "unity引擎/urp渲染/各项同性PBR渲染.md",
-    "unity引擎/urp渲染/头发渲染（TODO）.md",
     "unity引擎/urp渲染/贴花（TODO）.md",
     "计算机图形学学习/SDF/SDF实现液化融合效果.md",
     "计算机图形学学习/PBR/IBL基于图像照明.md",
@@ -276,8 +281,6 @@
     "计算机图形学学习/PBR/BRDF推导.md",
     "计算机图形学学习/PBR/立体角.md",
     "计算机图形学学习/PBR/辐射度量学.md",
-    "代码设计/波函数探索坍缩（程序化生成）.md",
-    "unity引擎/urp渲染/各向异性基础渲染.md",
     "attachments/Pasted image 20250815215728.png",
     "attachments/Pasted image 20250815214131.png",
     "attachments/Pasted image 20250815214056.png",
