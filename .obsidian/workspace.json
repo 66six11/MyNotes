@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机图形学学习/PBR/未命名.md",
+                "file": "unity引擎/urp渲染/有色体积光实现思路.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "有色体积光实现思路"
             }
           }
         ],
@@ -246,8 +246,10 @@
   },
   "active": "d9e7a5a07bab41dc",
   "lastOpenFiles": [
-    "attachments/Pasted image 20250401204316.png",
+    "unity引擎/urp渲染/有色体积光.md",
+    "unity引擎/urp渲染/有色体积光实现思路.md",
     "计算机图形学学习/PBR/未命名.md",
+    "attachments/Pasted image 20250401204316.png",
     "attachments/Pasted image 20250401210250.png",
     "attachments/Pasted image 20250328000136.png",
     "attachments/Pasted image 20250328000125.png",
@@ -266,8 +268,6 @@
     "@ref.md",
     "未命名.md",
     "Obsidian语法.md",
-    "unity引擎/urp渲染/有色体积光实现思路.md",
-    "unity引擎/urp渲染/有色体积光.md",
     "unity引擎/urp渲染/头发渲染（TODO）.md",
     "unity引擎/urp渲染/有色体积光学习文档.md",
     "unity引擎/urp渲染/PBR渲染.md",
