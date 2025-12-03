@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity引擎/urp渲染/各向异性基础渲染.md",
-                "mode": "source",
+                "file": "unity引擎/urp渲染/PBR渲染.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "各向异性基础渲染"
+              "title": "PBR渲染"
             }
           }
         ],
@@ -172,7 +172,7 @@
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
-              "title": "源代码管理"
+              "title": "Source Control"
             }
           },
           {
@@ -215,12 +215,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,8 +245,8 @@
   },
   "active": "d9e7a5a07bab41dc",
   "lastOpenFiles": [
-    "未命名.md",
     "unity引擎/urp渲染/各向异性基础渲染.md",
+    "未命名.md",
     "Obsidian语法.md",
     "unity引擎/urp渲染/有色体积光实现思路.md",
     "unity引擎/urp渲染/有色体积光.md",

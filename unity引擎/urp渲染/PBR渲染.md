@@ -109,7 +109,8 @@ $F_{\text{fresnel}}$ = 菲涅尔项（fresnel）
 
 $$F_{\text{fresnel}} = \text{lerp}(F_0, R, t) \times \frac{1}{\alpha^2 + 1}$$
 
-$$R = F_0 + (1 - \text{roughness})$ $t = (1 - \mathbf{n} \cdot \mathbf{v})^4$$
+$$R = F_0 + (1 - \text{roughness})$$ 
+$$t = (1 - \mathbf{n} \cdot \mathbf{v})^4$$
 
 $$\alpha = \text{roughness}^2$$
 
