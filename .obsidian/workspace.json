@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity引擎/urp渲染/有色体积光实现思路.md",
-                "mode": "preview",
+                "file": "unity引擎/urp渲染/各向异性基础渲染.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "有色体积光实现思路"
+              "title": "各向异性基础渲染"
             }
           }
         ],
@@ -246,8 +246,9 @@
   },
   "active": "d9e7a5a07bab41dc",
   "lastOpenFiles": [
-    "unity引擎/urp渲染/有色体积光.md",
+    "Obsidian语法.md",
     "unity引擎/urp渲染/有色体积光实现思路.md",
+    "unity引擎/urp渲染/有色体积光.md",
     "计算机图形学学习/PBR/未命名.md",
     "attachments/Pasted image 20250401204316.png",
     "attachments/Pasted image 20250401210250.png",
@@ -267,7 +268,6 @@
     "Excalidraw/Drawing 2025-04-01 20.27.21.excalidraw.md",
     "@ref.md",
     "未命名.md",
-    "Obsidian语法.md",
     "unity引擎/urp渲染/头发渲染（TODO）.md",
     "unity引擎/urp渲染/有色体积光学习文档.md",
     "unity引擎/urp渲染/PBR渲染.md",

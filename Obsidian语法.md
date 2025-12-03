@@ -42,6 +42,5 @@ aliases:
 
 ![[Obsidian语法#^quote-of-the-day]]
 [[Obsidian语法]]
-[^1]: sadsdawdw 
-	sdasdas
-	sdas
+[^1]: 引用
+	
