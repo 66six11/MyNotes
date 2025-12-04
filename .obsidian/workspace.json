@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "PBR渲染"
             }
+          },
+          {
+            "id": "57b358daccdc7a36",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,7 +255,7 @@
       "publish:发布更改": false
     }
   },
-  "active": "d9e7a5a07bab41dc",
+  "active": "57b358daccdc7a36",
   "lastOpenFiles": [
     "unity引擎/urp渲染/各向异性基础渲染.md",
     "未命名.md",
