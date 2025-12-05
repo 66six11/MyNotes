@@ -35,7 +35,7 @@ description:
 #### 漫反射
 > 环境光采样-基于光照探针/[[自适应探针体积APV]]
 
-![[51ce6fd26b8ea72f3c18cf337b96e1d9.png|100]]
+![[51ce6fd26b8ea72f3c18cf337b96e1d9.png]]
 
 那个 $\hat{\Lambda}$ 公式不是直接从第一个 $\Lambda$ 公式的代换来的 各向异性复杂一些 它考虑了 roughness 在不同方向（t 和 b 方向）都不一样 那个 $\hat{\Lambda}$ 公式是根据各向异性 GGX 的特点 算微平面互相遮挡时推导出来的 里面结合了不同方向的 roughness 和光线（或视线）方向
 
