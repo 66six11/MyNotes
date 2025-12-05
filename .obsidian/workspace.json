@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity引擎/urp渲染/水面渲染（ING）.md",
+                "file": "unity引擎/urp渲染/各项同性PBR渲染.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "水面渲染（ING）"
+              "title": "各项同性PBR渲染"
             }
           }
         ],
@@ -260,6 +260,15 @@
   "active": "57b358daccdc7a36",
   "lastOpenFiles": [
     "unity引擎/urp渲染/各向异性基础渲染.md",
+    "unity引擎/urp渲染/草地渲染（TODO）.md",
+    "unity引擎/urp渲染/程序化天空盒/大气散射（TODO）.md",
+    "unity引擎/urp渲染/程序化天空盒/程序化天空盒（TODO）.md",
+    "unity引擎/SRP渲染管线/自定义后处理（TODO）.md",
+    "unity引擎/SRP渲染管线/自定义渲染管线/实现自定义渲染管线.md",
+    "unity引擎/urp渲染/各项同性PBR渲染.md",
+    "unity引擎/urp渲染/PBR渲染.md",
+    "unity引擎/urp渲染/有色体积光.md",
+    "unity引擎/urp渲染/水面渲染（ING）.md",
     "unity引擎/urp渲染/⚠ URPshader注意项.md",
     "计算机图形学学习/SDF/SDF实现液化融合效果.md",
     "计算机图形学学习/PBR/IBL基于图像照明.md",
@@ -268,7 +277,6 @@
     "未命名.md",
     "Obsidian语法.md",
     "unity引擎/urp渲染/有色体积光实现思路.md",
-    "unity引擎/urp渲染/有色体积光.md",
     "计算机图形学学习/PBR/未命名.md",
     "attachments/Pasted image 20250401204316.png",
     "attachments/Pasted image 20250401210250.png",
@@ -286,15 +294,7 @@
     "@ref.md",
     "unity引擎/urp渲染/头发渲染（TODO）.md",
     "unity引擎/urp渲染/有色体积光学习文档.md",
-    "unity引擎/urp渲染/PBR渲染.md",
     "未命名 1.md",
-    "unity引擎/urp渲染/各项同性PBR渲染.md",
-    "unity引擎/urp渲染/贴花（TODO）.md",
-    "copilot-custom-prompts/Rewrite as press release.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts",
     "计算机图形学学习/SDF",
     "unity引擎/代码设计",
