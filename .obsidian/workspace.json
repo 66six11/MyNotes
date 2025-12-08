@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机图形学学习/PBR/辐射度量学.md",
-                "mode": "preview",
+                "file": "计算机图形学学习/PBR/立体角.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "辐射度量学"
+              "title": "立体角"
+            }
+          },
+          {
+            "id": "b36220fe92bd9c62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "代码设计/波函数探索坍缩（程序化生成）.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "波函数探索坍缩（程序化生成）"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -257,14 +271,18 @@
       "publish:发布更改": false
     }
   },
-  "active": "57b358daccdc7a36",
+  "active": "b36220fe92bd9c62",
   "lastOpenFiles": [
     "计算机图形学学习/PBR/立体角.md",
+    "计算机图形学学习/PBR/未命名.md",
+    "计算机图形学学习/PBR/BRDF推导.md",
+    "计算机图形学学习/PBR/未命名 1.md",
+    "未命名",
+    "代码设计/波函数探索坍缩（程序化生成）.md",
+    "Model/笔记属性模板.md",
     "计算机图形学学习/PBR/辐射度量学.md",
     "计算机图形学学习/SDF/SDF实现液化融合效果.md",
-    "计算机图形学学习/PBR/BRDF推导.md",
     "计算机图形学学习/PBR/IBL基于图像照明.md",
-    "计算机图形学学习/PBR/未命名.md",
     "unity引擎/urp渲染/各项同性PBR渲染.md",
     "unity引擎/urp渲染/各向异性基础渲染.md",
     "unity引擎/urp渲染/草地渲染（TODO）.md",
@@ -276,7 +294,6 @@
     "unity引擎/urp渲染/有色体积光.md",
     "unity引擎/urp渲染/水面渲染（ING）.md",
     "unity引擎/urp渲染/⚠ URPshader注意项.md",
-    "未命名.md",
     "Obsidian语法.md",
     "unity引擎/urp渲染/有色体积光实现思路.md",
     "attachments/Pasted image 20250401204316.png",
@@ -289,12 +306,9 @@
     "attachments/Pasted image 20251018175459.png",
     "attachments/Pasted image 20251018173136.png",
     "attachments/Pasted image 20251018155750.png",
-    "代码设计/波函数探索坍缩（程序化生成）.md",
     "Excalidraw/Drawing 2025-04-01 20.27.21.excalidraw.md",
     "@ref.md",
     "unity引擎/urp渲染/头发渲染（TODO）.md",
-    "unity引擎/urp渲染/有色体积光学习文档.md",
-    "未命名 1.md",
     "copilot-custom-prompts",
     "计算机图形学学习/SDF",
     "unity引擎/代码设计",
@@ -304,7 +318,6 @@
     "unity引擎/ShaderLibrary/VolumeLight.shader",
     "unity引擎/ShaderLibrary/Outline.shader",
     "unity引擎/ShaderLibrary/AnisotropicURP.shader",
-    "unity引擎/优化相关/Job多线程",
     "未命名.canvas"
   ]
 }
