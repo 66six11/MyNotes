@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机图形学学习/PBR/辐射度量学.md",
-                "mode": "preview",
+                "file": "代码设计/波函数探索坍缩（程序化生成）.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "辐射度量学"
+              "title": "波函数探索坍缩（程序化生成）"
             }
           }
         ],
@@ -273,8 +273,8 @@
   },
   "active": "b36220fe92bd9c62",
   "lastOpenFiles": [
-    "计算机图形学学习/PBR/立体角.md",
     "计算机图形学学习/PBR/辐射度量学.md",
+    "计算机图形学学习/PBR/立体角.md",
     "代码设计/波函数探索坍缩（程序化生成）.md",
     "计算机图形学学习/PBR/未命名.md",
     "计算机图形学学习/PBR/BRDF推导.md",
